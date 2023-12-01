@@ -44,4 +44,4 @@ A[git add]-->B["git commit -m 'message'"]-->C[git push]
 - **Create a .gitignore file**: `touch .gitignore`
 - **Specify files and patterns to ignore in .gitignore`
 
-#git #coding #commands #unix #linux #sysops #mermaidjs
+#git #coding #commands #linux #sysops #mermaidjs
