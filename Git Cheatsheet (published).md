@@ -1,3 +1,4 @@
+# Git Cheatsheet
 ## Installing Git
 [[OpenSuse]] -> `zypper install git`
 [[Debian]] -> `apt install git`
