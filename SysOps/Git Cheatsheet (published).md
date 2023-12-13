@@ -42,6 +42,6 @@ A[git add]-->B["git commit -m 'message'"]-->C[git push]
 - **Push tags to a remote repository**: `git push --tags`
 ### Ignoring Files
 - **Create a .gitignore file**: `touch .gitignore`
-- **Specify files and patterns to ignore in .gitignore`
+- **Specify files and patterns to ignore in .gitignore**
 
 #git #coding #commands #linux #sysops #mermaidjs
