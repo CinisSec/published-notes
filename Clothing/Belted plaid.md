@@ -1,7 +1,7 @@
 # Belted plaid
 ## Introduction
 ![[Cameron+McIan+Original-530x760.jpg|250]]
-The belted plaid is typically a 3,5m-4,5m long and 150cm wide piece of cloth. It can be worn all year when made out of [[wool]].  I've tried making one out of thick cotton and it doesn't drape as nicely so I would usually recommend using [[wool]].
+The belted plaid is typically a 3,5m-4,5m long and 150cm wide piece of cloth. It can be worn all year when made out of [[Wool]].  I've tried making one out of thick cotton and it doesn't drape as nicely so I would usually recommend using [[Wool]].
 ## Experience
 ### Netherlands
 - Rain:  3/5
@@ -20,4 +20,4 @@ The belted plaid is typically a 3,5m-4,5m long and 150cm wide piece of cloth. It
 ## Terminology
 - fèileadh-mòr in Scots gaelic.
 
-#clothing #wool #scotland #clothing/16thcentury #clothing/outerlayer
+#clothing #materials/wool #travel/scotland #clothing/16thcentury #clothing/outerlayer

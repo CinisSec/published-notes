@@ -12,4 +12,4 @@ These are the packages I had to install on openSUSE to make it work.
 - gtk3-devel
 - gtk-layer-shell-devel
 
-#linux #hyperland #wayland #sysops 
+#sysops/linux #sysops/wayland/hyprland #sysops/wayland #sysops 
